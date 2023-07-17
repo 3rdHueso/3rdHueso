@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3rdHueso
-- I'm an electronic engineer, which is why I have learned to program in MATLAB. Additionally, I obtained a Master's degree in Mathematics and Computation, where I extensively used Python
+- 📖 I'm an electronic engineer, which is why I have learned to program in MATLAB. Additionally, I obtained a Master's degree in Mathematics and Computation, where I extensively used Python
 - 👀 I have been always interested in learn to program video games
 - 🌱 time ago I programmed some little games using Corona SDK templates, currently I'm learning Python and C++
 - 💞️ I’m looking to collaborate on any kind of job related to programming
